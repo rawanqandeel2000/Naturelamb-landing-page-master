@@ -1,0 +1,70 @@
+.propuct {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+   
+
+}
+
+
+.span{
+    margin-top: 15px;
+    margin-left: 5px;
+    color: black;
+}
+.text-de{
+margin-left: 80px;
+color: black;
+font-weight: 500;
+}
+.black{
+    color: black;
+}
+.brown {
+    color: chocolate;
+}
+.blue {
+    color: blue;
+}
+.color-cir{
+    list-style: none;
+}
+.box{
+    display: flex;
+    margin-top: 2rem;
+}
+.img-product {
+    margin-left: 40px;
+    height: 11rem;
+    width: 9rem;
+}
+.inner-box {
+    background-color: white;
+    border-radius: 5%;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.text-inner{
+    font-size: 17px;
+    font-weight: 500;
+}
+.span-inner{
+    float: right;
+    color: goldenrod;
+    font-weight: 500;
+}
+
+.text-inner2{
+font-size: 11px;
+margin-top: 11px;
+}
+.similer-product {
+    width: 30px;
+}
+.list-item {
+   display: flex;
+   list-style: none;
+}
+.list-item li {
+margin-left: 12px;
+}

@@ -1,0 +1,31 @@
+.services-word {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.services-description {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    color: #5a5858;
+}
+.box-item {
+padding: 1rem;
+width: 26rem;
+margin-bottom: 2rem;
+margin-left: 12rem;
+}
+.box-title{
+    margin-top: 2rem;
+    font-size: x-large;
+    font-weight: 500;
+}
+.box-description{
+    margin-top: 1rem;
+    color: #5a5858;
+    width: 17rem;
+}
+.box-itemfinal{
+    margin-left: 451px;
+    margin-top: -68px;
+}

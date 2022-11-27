@@ -1,0 +1,28 @@
+.Nb{
+    margin: 0;
+    padding-top: 20px;
+    z-index: 1000000;
+}
+
+.Navbar.Brand{
+    margin-left: 2%;
+}
+
+
+.nava{
+    margin-right: 74px;
+}
+
+.nlink {
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.abo{
+    color:#038d81 !important
+}
+
+.wh{
+    color: white !important;
+}

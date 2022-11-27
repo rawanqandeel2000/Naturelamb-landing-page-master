@@ -1,0 +1,59 @@
+.products-section {
+    position: relative;
+}
+.products-text {
+    width: 50%;
+    font-family: 'Cairo';
+    font-size: 20px;
+}
+
+.products-home-page-word {
+    /* Make capital */
+    text-transform: uppercase;
+    color: #FF3A46;
+    font-family: 'Cairo';
+}
+
+.subheading-products-home {
+    font-family: 'Cairo';
+    /* Make underscored */
+    text-decoration: underline;
+    font-family: 'Cairo';
+    color: #233D63;
+}
+
+.products-image-person-home {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.products-image-person-home span {
+    margin-left: 2em;
+    font-family: 'Cairo';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.semi-circle-products {
+    position: absolute;
+    right: 0;
+    bottom: -30%;
+    /* Add opacity to image */
+    opacity: 0.3;
+}
+
+.hr-line-products {
+    width: 3000%;
+    z-index: 10000;
+    position: absolute;
+    opacity: 0.1;
+    left: -300em;
+
+}
+
+.semi-circle-products-left {
+    position: absolute;
+    left: 0;
+    bottom: -30%;
+    opacity: 0.3;
+}
